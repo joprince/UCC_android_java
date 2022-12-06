@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test app 1</string>
+    <string name="new_string">enter text now</string>
+    <string name="label_spinner">select</string>
+    <string-array name="spinner">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+    </string-array>
+</resources>

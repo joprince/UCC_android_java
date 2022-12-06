@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<countries>
+  <country>
+    <id>1</id>
+    <name>Australia</name>
+    <img>australia.jpg</img>
+    <phone_code>61</phone_code>
+    <capital>Canberra</capital>
+    <currency>AUD</currency>
+    <currency_symbol>$</currency_symbol>
+    <description>Australia, officially the Commonwealth of Australia, is a sovereign country comprising the mainland of the Australian continent, the island of Tasmania, and numerous smaller islands. With an area of 7,617,930 square kilometres, Australia is the largest country by area in Oceania and the world's sixth-largest country</description>
+    <region>Oceania</region>
+    <latitude>-27.00000000</latitude>
+    <longitude>133.00000000</longitude>
+    <emoji>🇦🇺</emoji>
+    <link>https://www.bbc.com/news/world-asia-15674351</link>
+  </country>
+  <country>
+    <id>2</id>
+    <name>Canada</name>
+    <img>canada.jpg</img>
+    <phone_code>1</phone_code>
+    <capital>Ottawa</capital>
+    <currency>CAD</currency>
+    <currency_symbol>$</currency_symbol>
+    <description>Canada is a country in North America. Its ten provinces and three territories extend from the Atlantic Ocean to the Pacific Ocean and northward into the Arctic Ocean, covering over 9.98 million square kilometres, making it the world's second-largest country by total area.</description>
+    <region>Americas</region>
+    <latitude>60.00000000</latitude>
+    <longitude>-95.00000000</longitude>
+    <emoji>🇨🇦</emoji>
+    <emojiU>U+1F1E8 U+1F1E6</emojiU>
+    <link>https://www.bbc.com/news/world-us-canada-16841111</link>
+  </country>
+  <country>
+    <id>3</id>
+    <name>China</name>
+    <img>china.jpg</img>
+    <phone_code>86</phone_code>
+    <capital>Beijing</capital>
+    <currency>CNY</currency>
+    <currency_symbol>¥</currency_symbol>
+    <description>China, officially the People's Republic of China, is a country in East Asia. It is the world's most populous country with a population exceeding 1.4 billion people. China spans five geographical time zones and borders fourteen countries by land, the most of any country in the world, tied with Russia.
+    </description>
+    <region>Asia</region>
+    <latitude>35.00000000</latitude>
+    <longitude>105.00000000</longitude>
+    <emoji>🇨🇳</emoji>
+    <emojiU>U+1F1E8 U+1F1F3</emojiU>
+    <link>https://www.bbc.com/news/world-asia-pacific-13017877</link>
+  </country>
+  <country>
+    <id>4</id>
+    <name>India</name>
+    <img>india.jpg</img>
+    <phone_code>91</phone_code>
+    <capital>New Delhi</capital>
+    <currency>INR</currency>
+    <currency_symbol>₹</currency_symbol>
+    <description>India, officially the Republic of India, is a country in South Asia. It is the seventh-largest country by area, the second-most populous country, and the most populous democracy in the world.</description>
+    <region>Asia</region>
+    <latitude>20.00000000</latitude>
+    <longitude>77.00000000</longitude>
+    <emoji>🇮🇳</emoji>
+    <emojiU>U+1F1EE U+1F1F3</emojiU>
+    <link>https://www.bbc.com/news/world-south-asia-12557384</link>
+  </country>
+  <country>
+    <id>5</id>
+    <name>Ireland</name>
+    <img>ireland.jpg</img>
+    <phone_code>353</phone_code>
+    <capital>Dublin</capital>
+    <currency>EUR</currency>
+    <currency_symbol>€</currency_symbol>
+    <description>Ireland is an island in the North Atlantic Ocean, in north-western Europe. It is separated from Great Britain to its east by the North Channel, the Irish Sea, and St George's Channel. Ireland is the second-largest island of the British Isles, the third-largest in Europe</description>
+    <region>Europe</region>
+    <latitude>53.00000000</latitude>
+    <longitude>-8.00000000</longitude>
+    <emoji>🇮🇪</emoji>
+    <emojiU>U+1F1EE U+1F1EA</emojiU>
+    <link>https://www.bbc.com/news/world-europe-17473476</link>
+  </country>
+  <country>
+    <id>6</id>
+    <name>United States</name>
+    <img>usa.jpg</img>
+    <phone_code>1</phone_code>
+    <capital>Washington</capital>
+    <currency>USD</currency>
+    <currency_symbol>$</currency_symbol>
+    <description>The United States of America, commonly known as the United States or America, is a country located in North America. It consists of 50 states, a federal district, five major unincorporated territories, nine Minor Outlying Islands, and 326 Indian reservations.</description>
+    <region>Americas</region>
+    <latitude>38.00000000</latitude>
+    <longitude>-97.00000000</longitude>
+    <emoji>🇺🇸</emoji>
+    <emojiU>U+1F1FA U+1F1F8</emojiU>
+    <link>https://www.bbc.com/news/world-us-canada-16761057</link>
+  </country>
+</countries>
